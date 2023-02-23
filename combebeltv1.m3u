@@ -1,476 +1,476 @@
 
 #EXTM3U
-#EXTINF:-1,AJWA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",AJWA
 http://103.226.232.170:9008/play/a001
-#EXTINF:-1,ASTRO CERIA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO CERIA
 http://103.226.232.170:9008/play/a037
-#EXTINF:-1,ASTRO SS4
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SS4
 http://103.226.232.170:9008/play/a011
-#EXTINF:-1,ASTRO SSP1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SSP1
 http://103.226.232.170:9008/play/a02s
-#EXTINF:-1,ASTRO SSP2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SSP2
 http://103.226.232.170:9008/play/a02l
-#EXTINF:-1,ASTRO SSP3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SSP3
 http://103.226.232.170:9008/play/a02m
-#EXTINF:-1,ASTRO SSP4
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SSP4
 http://103.226.232.170:9008/play/a02n
-#EXTINF:-1,ASTRO SUPERSPORT1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SUPERSPORT1
 http://103.226.232.170:9008/play/a033
-#EXTINF:-1,ASTRO SUPERSPORT2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SUPERSPORT2
 http://103.226.232.170:9008/play/a034
-#EXTINF:-1,ASTRO SUPERSPORT3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SUPERSPORT3
 http://103.226.232.170:9008/play/a035
-#EXTINF:-1,ASTRO SUPERSPORT4
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ASTRO SUPERSPORT4
 http://103.226.232.170:9008/play/a036
-#EXTINF:-1,BABY ALIVE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BABY ALIVE
 http://103.226.232.170:9008/play/a01s
-#EXTINF:-1,BABY TRT
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BABY TRT
 http://103.226.232.170:9008/play/a02e
-#EXTINF:-1,BABY TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BABY TV
 http://103.226.232.170:9008/play/a02d
-#EXTINF:-1,BABY TV2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BABY TV2
 http://103.226.232.170:9008/play/a02r
-#EXTINF:-1,BEIN SPORT3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN SPORT3
 http://103.226.232.170:9008/play/a02w
-#EXTINF:-1,BEIN SPORT4
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN SPORT4
 http://103.226.232.170:9008/play/a02x
-#EXTINF:-1,BEIN SPORT5
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN SPORT5
 http://103.226.232.170:9008/play/a02y
-#EXTINF:-1,BEIN SPORT6
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN SPORT6
 http://103.226.232.170:9008/play/a02z
-#EXTINF:-1,BEIN SPORT7
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN SPORT7
 http://103.226.232.170:9008/play/a030
-#EXTINF:-1,CBEEBIES
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CBEEBIES
 http://103.226.232.170:9008/play/a039
-#EXTINF:-1,CLUBING TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CLUBING TV
 http://103.226.232.170:9008/play/a00m
-#EXTINF:-1,CNN INDONESIA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CNN INDONESIA
 http://103.226.232.170:9008/play/a013
-#EXTINF:-1,DAZN2 SPORT
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DAZN2 SPORT
 http://103.226.232.170:9008/play/a02f
-#EXTINF:-1,DELUXE LOUNGE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DELUXE LOUNGE
 http://103.226.232.170:9008/play/a00f
-#EXTINF:-1,DELUXE MUSIC
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DELUXE MUSIC
 http://103.226.232.170:9008/play/a00d
-#EXTINF:-1,DMTV MALANG
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DMTV MALANG
 http://103.226.232.170:9008/play/a02k
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ESPN
 http://103.226.232.170:9008/play/a022
-#EXTINF:-1,ESPN2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ESPN2
 http://103.226.232.170:9008/play/a023
-#EXTINF:-1,EURO SPORT1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",EURO SPORT1
 http://103.226.232.170:9008/play/a024
-#EXTINF:-1,EURO SPORT2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",EURO SPORT2
 http://103.226.232.170:9008/play/a00z
-#EXTINF:-1,EUROSPORT1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",EUROSPORT1
 http://103.226.232.170:9008/play/a02h
-#EXTINF:-1,FASHION TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FASHION TV
 http://103.226.232.170:9008/play/a014
-#EXTINF:-1,FIGHT NETWORK
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FIGHT NETWORK
 http://103.226.232.170:9008/play/a02g
-#EXTINF:-1,FIGHT SPORT2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FIGHT SPORT2
 http://103.226.232.170:9008/play/a02q
-#EXTINF:-1,FISH TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FISH TV
 http://103.226.232.170:9008/play/a01r
-#EXTINF:-1,FOX SPORT
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FOX SPORT
 http://103.226.232.170:9008/play/a01w
-#EXTINF:-1,FUEL TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FUEL TV
 http://103.226.232.170:9008/play/a00n
-#EXTINF:-1,GOLD TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",GOLD TV
 http://103.226.232.170:9008/play/a00i
-#EXTINF:-1,HAPPY KIDS
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HAPPY KIDS
 http://103.226.232.170:9008/play/a02i
-#EXTINF:-1,IMPACT WRESTLING
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",IMPACT WRESTLING
 http://103.226.232.170:9008/play/a01k
-#EXTINF:-1,INDOSIAR
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDOSIAR
 http://103.226.232.170:9008/play/a032
-#EXTINF:-1,KIDS TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",KIDS TV
 http://103.226.232.170:9008/play/a02j
-#EXTINF:-1,LEGO
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",LEGO
 http://103.226.232.170:9008/play/a02v
-#EXTINF:-1,MANCING MANIA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MANCING MANIA
 http://103.226.232.170:9008/play/a00g
-#EXTINF:-1,MMA JUNKIE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MMA JUNKIE
 http://103.226.232.170:9008/play/a01l
-#EXTINF:-1,MMA TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MMA TV
 http://103.226.232.170:9008/play/a02o
-#EXTINF:-1,MUSIC TOP
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MUSIC TOP
 http://103.226.232.170:9008/play/a01c
-#EXTINF:-1,MY GARAGE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MY GARAGE
 http://103.226.232.170:9008/play/a025
-#EXTINF:-1,NOJUM
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NOJUM
 http://103.226.232.170:9008/play/a00y
-#EXTINF:-1,NOVA SPORT2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NOVA SPORT2
 http://103.226.232.170:9008/play/a010
-#EXTINF:-1,NOVA SPORT6
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NOVA SPORT6
 http://103.226.232.170:9008/play/a012
-#EXTINF:-1,NOW 80
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NOW 80
 http://103.226.232.170:9008/play/a00v
-#EXTINF:-1,PETS LOVERS
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",PETS LOVERS
 http://103.226.232.170:9008/play/a01v
-#EXTINF:-1,PLANETA JUNIOR
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",PLANETA JUNIOR
 http://103.226.232.170:9008/play/a00s
-#EXTINF:-1,PLUTO MANCING MANIA2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",PLUTO MANCING MANIA2
 http://103.226.232.170:9008/play/a017
-#EXTINF:-1,PLUTO MMA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",PLUTO MMA
 http://103.226.232.170:9008/play/a016
-#EXTINF:-1,PLUTO UFC
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",PLUTO UFC
 http://103.226.232.170:9008/play/a019
-#EXTINF:-1,PLUTO WRESTLING
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",PLUTO WRESTLING
 http://103.226.232.170:9008/play/a01a
-#EXTINF:-1,Q MUSIC
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",Q MUSIC
 http://103.226.232.170:9008/play/a01b
-#EXTINF:-1,RAKUTEN TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",RAKUTEN TV
 http://103.226.232.170:9008/play/a015
-#EXTINF:-1,RETRO TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",RETRO TV
 http://103.226.232.170:9008/play/a00p
-#EXTINF:-1,REUTERS TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",REUTERS TV
 http://103.226.232.170:9008/play/a00u
-#EXTINF:-1,ROTANA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ROTANA
 http://103.226.232.170:9008/play/a00b
-#EXTINF:-1,ROTANA SPORTS TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ROTANA SPORTS TV
 http://103.226.232.170:9008/play/a01o
-#EXTINF:-1,ROTANA1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ROTANA1
 http://103.226.232.170:9008/play/a01d
-#EXTINF:-1,SCHLAGER DELUXE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SCHLAGER DELUXE
 http://103.226.232.170:9008/play/a00h
-#EXTINF:-1,SONY SIX
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SONY SIX
 http://103.226.232.170:9008/play/a01y
-#EXTINF:-1,SONY TEN1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SONY TEN1
 http://103.226.232.170:9008/play/a01e
-#EXTINF:-1,SONY TEN2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SONY TEN2
 http://103.226.232.170:9008/play/a01z
-#EXTINF:-1,SONY TEN3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SONY TEN3
 http://103.226.232.170:9008/play/a020
-#EXTINF:-1,SPORT 18
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SPORT 18
 http://103.226.232.170:9008/play/a01x
-#EXTINF:-1,SPORT OUTDOOR
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SPORT OUTDOOR
 http://103.226.232.170:9008/play/a00k
-#EXTINF:-1,STAR HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",STAR HD
 http://103.226.232.170:9008/play/a00c
-#EXTINF:-1,START MOVIE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",START MOVIE
 http://103.226.232.170:9008/play/a021
-#EXTINF:-1,STRONGMAN LEAGUE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",STRONGMAN LEAGUE
 http://103.226.232.170:9008/play/a01f
-#EXTINF:-1,SUPERTOON
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SUPERTOON
 http://103.226.232.170:9008/play/a00q
-#EXTINF:-1,TELETUBIES
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TELETUBIES
 http://103.226.232.170:9008/play/a00r
-#EXTINF:-1,TES
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TES
 http://103.226.232.170:9008/play/a031
-#EXTINF:-1,TRACE SPORT STAR
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TRACE SPORT STAR
 http://103.226.232.170:9008/play/a01g
-#EXTINF:-1,TRACE URBAN
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TRACE URBAN
 http://103.226.232.170:9008/play/a01h
-#EXTINF:-1,TRT MUZIK
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TRT MUZIK
 http://103.226.232.170:9008/play/a005
-#EXTINF:-1,TV ONE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TV ONE
 http://103.226.232.170:9008/play/a002
-#EXTINF:-1,UFC TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",UFC TV
 http://103.226.232.170:9008/play/a02p
-#EXTINF:-1,VEVO 2K
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",VEVO 2K
 http://103.226.232.170:9008/play/a01u
-#EXTINF:-1,VEVO HIP HOP
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",VEVO HIP HOP
 http://103.226.232.170:9008/play/a01i
-#EXTINF:-1,VEVO POP
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",VEVO POP
 http://103.226.232.170:9008/play/a00t
-#EXTINF:-1,VEVO R&B
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",VEVO R&B
 http://103.226.232.170:9008/play/a01t
-#EXTINF:-1,WWE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",WWE
 http://103.226.232.170:9008/play/a038
 
 
-#EXTINF:-1,AFN
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",AFN
 http://103.226.232.170:9002/play/a007/index.m3u8
-#EXTINF:-1,ANIMAX
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ANIMAX
 http://103.226.232.170:9002/play/a00k/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",AXN
 http://103.226.232.170:9002/play/a00i/index.m3u8
-#EXTINF:-1,BEIN 1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN 1
 http://103.226.232.170:9002/play/a001/index.m3u8
-#EXTINF:-1,BEIN 3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN 3
 http://103.226.232.170:9002/play/a002/index.m3u8
-#EXTINF:-1,BLOOMBERG
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BLOOMBERG
 http://103.226.232.170:9002/play/a00v/index.m3u8
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CINEMAX
 http://103.226.232.170:9002/play/a00s/index.m3u8
-#EXTINF:-1,CNBC ASIA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CNBC ASIA
 http://103.226.232.170:9002/play/a00w/index.m3u8
-#EXTINF:-1,CNN INDONESIA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CNN INDONESIA
 http://103.226.232.170:9002/play/a00g/index.m3u8
-#EXTINF:-1,DUNIA ANAK
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DUNIA ANAK
 http://103.226.232.170:9002/play/a00m/index.m3u8
-#EXTINF:-1,FLIX
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FLIX
 http://103.226.232.170:9002/play/a00j/index.m3u8
-#EXTINF:-1,GALAXY
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",GALAXY
 http://103.226.232.170:9002/play/a00t/index.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HBO
 http://103.226.232.170:9002/play/a00e/index.m3u8
-#EXTINF:-1,HISTORY
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HISTORY
 http://103.226.232.170:9002/play/a00a/index.m3u8
-#EXTINF:-1,JOWO
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",JOWO
 http://103.226.232.170:9002/play/a00f/index.m3u8
-#EXTINF:-1,NAT GEO
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NAT GEO
 http://103.226.232.170:9002/play/a008/index.m3u8
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NAT GEO WILD
 http://103.226.232.170:9002/play/a00b/index.m3u8
-#EXTINF:-1,ONE HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ONE HD
 http://103.226.232.170:9002/play/a006/index.m3u8
-#EXTINF:-1,SCM
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SCM
 http://103.226.232.170:9002/play/a00u/index.m3u8
-#EXTINF:-1,SCTV SD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SCTV SD
 http://103.226.232.170:9002/play/a00y/index.m3u8
-#EXTINF:-1,TECH STORM
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TECH STORM
 http://103.226.232.170:9002/play/a00d/index.m3u8
-#EXTINF:-1,U CHANNEL
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",U CHANNEL
 http://103.226.232.170:9002/play/a010/index.m3u8
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ZEE BIOSKOP
 http://103.226.232.170:9002/play/a005/index.m3u8
 
 
-#EXTINF:-1,00 TESTER
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",00 TESTER
 http://203.29.26.22:8000/play/a08h/index.m3u8
-#EXTINF:-1,ANTV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ANTV HD
 http://203.29.26.22:8000/play/a06x/index.m3u8
-#EXTINF:-1,BBS TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BBS TV
 http://203.29.26.22:8000/play/a060/index.m3u8
-#EXTINF:-1,CNN INDONESIA HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CNN INDONESIA HD
 http://203.29.26.22:8000/play/a066/index.m3u8
-#EXTINF:-1,GTV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",GTV HD
 http://203.29.26.22:8000/play/a05g/index.m3u8
-#EXTINF:-1,INDOSIAR HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDOSIAR HD
 http://203.29.26.22:8000/play/a05k/index.m3u8
-#EXTINF:-1,JTV JEMBER
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",JTV JEMBER
 http://203.29.26.22:8000/play/a061/index.m3u8
-#EXTINF:-1,KOMPASTV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",KOMPASTV HD
 http://203.29.26.22:8000/play/a05n/index.m3u8
-#EXTINF:-1,MENTARI HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MENTARI HD
 http://203.29.26.22:8000/play/a05m/index.m3u8
-#EXTINF:-1,METRO TV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",METRO TV HD
 http://203.29.26.22:8000/play/a05x/index.m3u8
-#EXTINF:-1,MNCTV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MNCTV HD
 http://203.29.26.22:8000/play/a06u/index.m3u8
-#EXTINF:-1,MOJI HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MOJI HD
 http://203.29.26.22:8000/play/a05l/index.m3u8
-#EXTINF:-1,RCTI HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",RCTI HD
 http://203.29.26.22:8000/play/a05e/index.m3u8
-#EXTINF:-1,SCTV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SCTV HD
 http://203.29.26.22:8000/play/a05j/index.m3u8
-#EXTINF:-1,TRANS 7 HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TRANS 7 HD
 http://203.29.26.22:8000/play/a065/index.m3u8
-#EXTINF:-1,TRANS TV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TRANS TV HD
 http://203.29.26.22:8000/play/a064/index.m3u8
-#EXTINF:-1,TVONE
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TVONE
 http://203.29.26.22:8000/play/a06y/index.m3u8
-#EXTINF:-1,iNEWS HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",iNEWS HD
 http://203.29.26.22:8000/play/a05h/index.m3u8
 
 
-#EXTINF:-1,Bioskop Indonesia
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",Bioskop Indonesia
 http://103.20.184.167:8000/play/a02s/index.m3u8
-#EXTINF:-1,Cinemax Dolby HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",Cinemax Dolby HD
 http://103.20.184.167:8000/play/a01r/index.m3u8
-#EXTINF:-1,Fox Action Movie HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",Fox Action Movie HD
 http://103.20.184.167:8000/play/a00l/index.m3u8
-#EXTINF:-1,HBO Family Dolby HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HBO Family Dolby HD
 http://103.20.184.167:8000/play/a01s/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HBO HD
 http://103.20.184.167:8000/play/a00r/index.m3u8
-#EXTINF:-1,HBO Hits HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HBO Hits HD
 http://103.20.184.167:8000/play/a00q/index.m3u8
-#EXTINF:-1,HBO Signature Dolby HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HBO Signature Dolby HD
 http://103.20.184.167:8000/play/a01u/index.m3u8
-#EXTINF:-1,TV One
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TV One
 http://103.20.184.167:8000/play/a00g/index.m3u8
-#EXTINF:-1,Warner HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",Warner HD
 http://103.20.184.167:8000/play/a016/index.m3u8
 
 
-#EXTINF:-1,ABU DHABI SPORT 1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ABU DHABI SPORT 1
 http://103.167.167.5:8111/play/a03l/index.m3u8
-#EXTINF:-1,ABU DHABI SPORT 2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ABU DHABI SPORT 2
 http://103.167.167.5:8111/play/a03m/index.m3u8
-#EXTINF:-1,AXN (192.168.240.39)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",AXN (192.168.240.39)
 http://103.167.167.5:8111/play/a019/index.m3u8
-#EXTINF:-1,BACKUP (192.168.240.17)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP (192.168.240.17)
 http://103.167.167.5:8111/play/a00n/index.m3u8
-#EXTINF:-1,BACKUP 2 (192.168.240.41)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP 2 (192.168.240.41)
 http://103.167.167.5:8111/play/a01b/index.m3u8
-#EXTINF:-1,BACKUP 3 (192.168.240.48)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP 3 (192.168.240.48)
 http://103.167.167.5:8111/play/a01i/index.m3u8
-#EXTINF:-1,BACKUP 4 (192.168.240.49)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP 4 (192.168.240.49)
 http://103.167.167.5:8111/play/a01j/index.m3u8
-#EXTINF:-1,BACKUP 5 (192.168.240.50)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP 5 (192.168.240.50)
 http://103.167.167.5:8111/play/a01k/index.m3u8
-#EXTINF:-1,BACKUP 6(176.16.201.3)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP 6(176.16.201.3)
 http://103.167.167.5:8111/play/a01m/index.m3u8
-#EXTINF:-1,BACKUP 8 (176.16.201.6)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BACKUP 8 (176.16.201.6)
 http://103.167.167.5:8111/play/a01o/index.m3u8
-#EXTINF:-1,BEIN 1 (192.168.240.35)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN 1 (192.168.240.35)
 http://103.167.167.5:8111/play/a015/index.m3u8
-#EXTINF:-1,BEIN 3 (192.168.240.25)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BEIN 3 (192.168.240.25)
 http://103.167.167.5:8111/play/a00v/index.m3u8
-#EXTINF:-1,BLOOMBERG (192.168.240.6)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BLOOMBERG (192.168.240.6)
 http://103.167.167.5:8111/play/a01t/index.m3u8
-#EXTINF:-1,BN TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",BN TV
 http://103.167.167.5:8111/play/a00b/index.m3u8
-#EXTINF:-1,CARTOON NETWORK (192.168.240.27)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CARTOON NETWORK (192.168.240.27)
 http://103.167.167.5:8111/play/a00x/index.m3u8
-#EXTINF:-1,CELESTIAL
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CELESTIAL
 http://103.167.167.5:8111/play/a03w/index.m3u8
-#EXTINF:-1,CELESTIAL CLASSIC MOVIES (176.16.201.9)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CELESTIAL CLASSIC MOVIES (176.16.201.9)
 http://103.167.167.5:8111/play/a01r/index.m3u8
-#EXTINF:-1,CELESTIAL MOVIES (192.168.240.23)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CELESTIAL MOVIES (192.168.240.23)
 http://103.167.167.5:8111/play/a00t/index.m3u8
-#EXTINF:-1,CETV1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CETV1
 http://103.167.167.5:8111/play/a002/index.m3u8
-#EXTINF:-1,CHAMPION 1 (176.16.201.7)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CHAMPION 1 (176.16.201.7)
 http://103.167.167.5:8111/play/a01p/index.m3u8
-#EXTINF:-1,CHAMPION 2 (176.16.201.8)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CHAMPION 2 (176.16.201.8)
 http://103.167.167.5:8111/play/a01q/index.m3u8
-#EXTINF:-1,CHANNEL 5 (192.168.240.28)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CHANNEL 5 (192.168.240.28)
 http://103.167.167.5:8111/play/a00y/index.m3u8
-#EXTINF:-1,CHANNEL 8 (192.168.240.36)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CHANNEL 8 (192.168.240.36)
 http://103.167.167.5:8111/play/a016/index.m3u8
-#EXTINF:-1,CINEMA WORLD (192.168.240.45)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",CINEMA WORLD (192.168.240.45)
 http://103.167.167.5:8111/play/a01f/index.m3u8
-#EXTINF:-1,DAAI TSU ZHI (192.168.240.3)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DAAI TSU ZHI (192.168.240.3)
 http://103.167.167.5:8111/play/a01s/index.m3u8
-#EXTINF:-1,DW TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",DW TV
 http://103.167.167.5:8111/play/a03n/index.m3u8
-#EXTINF:-1,FASHION TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FASHION TV
 http://103.167.167.5:8111/play/a03d/index.m3u8
-#EXTINF:-1,FIGHT SPIRIT
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FIGHT SPIRIT
 http://103.167.167.5:8111/play/a03h/index.m3u8
-#EXTINF:-1,FJTV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",FJTV
 http://103.167.167.5:8111/play/a005/index.m3u8
-#EXTINF:-1,GALAXY (192.168.240.12)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",GALAXY (192.168.240.12)
 http://103.167.167.5:8111/play/a00j/index.m3u8
-#EXTINF:-1,GALAXY PREMIUM (192.168.240.21)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",GALAXY PREMIUM (192.168.240.21)
 http://103.167.167.5:8111/play/a00s/index.m3u8
-#EXTINF:-1,GTV (192.168.240.34)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",GTV (192.168.240.34)
 http://103.167.167.5:8111/play/a014/index.m3u8
-#EXTINF:-1,HAARI DRAMA (192.168.240.9)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HAARI DRAMA (192.168.240.9)
 http://103.167.167.5:8111/play/a01z/index.m3u8
-#EXTINF:-1,HAARI KIDS (192.168.240.7)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HAARI KIDS (192.168.240.7)
 http://103.167.167.5:8111/play/a00g/index.m3u8
-#EXTINF:-1,HAARI MOVIES (192.168.240.8)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",HAARI MOVIES (192.168.240.8)
 http://103.167.167.5:8111/play/a00h/index.m3u8
-#EXTINF:-1,IND - ANIMAX
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",IND - ANIMAX
 http://103.167.167.5:8111/play/a030/index.m3u8
-#EXTINF:-1,IND-ANIPLUS
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",IND-ANIPLUS
 http://103.167.167.5:8111/play/a033/index.m3u8
-#EXTINF:-1,INDI - BEIN 1
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - BEIN 1
 http://103.167.167.5:8111/play/a02m/index.m3u8
-#EXTINF:-1,INDI - BEIN 3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - BEIN 3
 http://103.167.167.5:8111/play/a02n/index.m3u8
-#EXTINF:-1,INDI - CNN INDONESIA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - CNN INDONESIA
 http://103.167.167.5:8111/play/a02q/index.m3u8
-#EXTINF:-1,INDI - FORMOSA TV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - FORMOSA TV
 http://103.167.167.5:8111/play/a034/index.m3u8
-#EXTINF:-1,INDI - GALAXY
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - GALAXY
 http://103.167.167.5:8111/play/a02h/index.m3u8
-#EXTINF:-1,INDI - HITS
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - HITS
 http://103.167.167.5:8111/play/a043/index.m3u8
-#EXTINF:-1,INDI - OTOMOTO
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - OTOMOTO
 http://103.167.167.5:8111/play/a047/index.m3u8
-#EXTINF:-1,INDI - SPOTV 2 HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - SPOTV 2 HD
 http://103.167.167.5:8111/play/a028/index.m3u8
-#EXTINF:-1,INDI - TVN
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDI - TVN
 http://103.167.167.5:8111/play/a02u/index.m3u8
-#EXTINF:-1,INDOSIAR (192.168.240.20)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INDOSIAR (192.168.240.20)
 http://103.167.167.5:8111/play/a00r/index.m3u8
-#EXTINF:-1,INHOUSE-JBV2
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INHOUSE-JBV2
 http://103.167.167.5:8111/play/a006/index.m3u8
-#EXTINF:-1,INHOUSE-JBV3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INHOUSE-JBV3
 http://103.167.167.5:8111/play/a007/index.m3u8
-#EXTINF:-1,INHOUSE-JBV4
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",INHOUSE-JBV4
 http://103.167.167.5:8111/play/a008/index.m3u8
-#EXTINF:-1,KBS-WORLD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",KBS-WORLD
 http://103.167.167.5:8111/play/a03a/index.m3u8
-#EXTINF:-1,KIDS CENTRAL
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",KIDS CENTRAL
 http://103.167.167.5:8111/play/a03u/index.m3u8
-#EXTINF:-1,KIX (192.168.240.19)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",KIX (192.168.240.19)
 http://103.167.167.5:8111/play/a00p/index.m3u8
-#EXTINF:-1,LEGO
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",LEGO
 http://103.167.167.5:8111/play/a03c/index.m3u8
-#EXTINF:-1,MAGNA CHANNEL
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MAGNA CHANNEL
 http://103.167.167.5:8111/play/a00a/index.m3u8
-#EXTINF:-1,METRO TV HD
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",METRO TV HD
 http://103.167.167.5:8111/play/a00c/index.m3u8
-#EXTINF:-1,MING XE (192.168.240.26)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MING XE (192.168.240.26)
 http://103.167.167.5:8111/play/a00w/index.m3u8
-#EXTINF:-1,MNC TV (192.168.240.31)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MNC TV (192.168.240.31)
 http://103.167.167.5:8111/play/a011/index.m3u8
-#EXTINF:-1,MTV (192.168.240.22)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MTV (192.168.240.22)
 http://103.167.167.5:8111/play/a00q/index.m3u8
-#EXTINF:-1,MTV ASIA (192.168.240.38)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MTV ASIA (192.168.240.38)
 http://103.167.167.5:8111/play/a018/index.m3u8
-#EXTINF:-1,MY CINEMA (192.168.240.47)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MY CINEMA (192.168.240.47)
 http://103.167.167.5:8111/play/a01h/index.m3u8
-#EXTINF:-1,MY CINEMA ASIA (192.168.240.46)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MY CINEMA ASIA (192.168.240.46)
 http://103.167.167.5:8111/play/a01g/index.m3u8
-#EXTINF:-1,MY FAMILY (192.168.240.14)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",MY FAMILY (192.168.240.14)
 http://103.167.167.5:8111/play/a00k/index.m3u8
-#EXTINF:-1,NASA
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NASA
 http://103.167.167.5:8111/play/a037/index.m3u8
-#EXTINF:-1,NAT GEO WILD (192.168.240.43)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NAT GEO WILD (192.168.240.43)
 http://103.167.167.5:8111/play/a01d/index.m3u8
-#EXTINF:-1,NGC (192.168.240.13)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NGC (192.168.240.13)
 http://103.167.167.5:8111/play/a036/index.m3u8
-#EXTINF:-1,NICK (192.168.240.4)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NICK (192.168.240.4)
 http://103.167.167.5:8111/play/a00e/index.m3u8
-#EXTINF:-1,NICK JR (192.168.240.5)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NICK JR (192.168.240.5)
 http://103.167.167.5:8111/play/a00f/index.m3u8
-#EXTINF:-1,NIMBUS PLAYOUT
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",NIMBUS PLAYOUT
 http://103.167.167.5:8111/play/a03t/index.m3u8
-#EXTINF:-1,RCTI (192.168.240.42)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",RCTI (192.168.240.42)
 http://103.167.167.5:8111/play/a01c/index.m3u8
-#EXTINF:-1,ROCK ENTERTAINMENT (192.168.240.44)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ROCK ENTERTAINMENT (192.168.240.44)
 http://103.167.167.5:8111/play/a01e/index.m3u8
-#EXTINF:-1,ROCK EXTREME (192.168.240.16)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ROCK EXTREME (192.168.240.16)
 http://103.167.167.5:8111/play/a00m/index.m3u8
-#EXTINF:-1,RUSAK (192.168.240.15)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",RUSAK (192.168.240.15)
 http://103.167.167.5:8111/play/a00l/index.m3u8
-#EXTINF:-1,SCTV (192.168.240.18)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SCTV (192.168.240.18)
 http://103.167.167.5:8111/play/a00o/index.m3u8
-#EXTINF:-1,SCTV BACKUP
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SCTV BACKUP
 http://103.167.167.5:8111/play/a048/index.m3u8
-#EXTINF:-1,SET INT (192.168.240.33)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SET INT (192.168.240.33)
 http://103.167.167.5:8111/play/a013/index.m3u8
-#EXTINF:-1,SET TV (192.168.240.32)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SET TV (192.168.240.32)
 http://103.167.167.5:8111/play/a012/index.m3u8
-#EXTINF:-1,SOCCER (192.168.240.11)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SOCCER (192.168.240.11)
 http://103.167.167.5:8111/play/a00i/index.m3u8
-#EXTINF:-1,SONY GEM (192.168.240.29)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SONY GEM (192.168.240.29)
 http://103.167.167.5:8111/play/a00z/index.m3u8
-#EXTINF:-1,SONY ONE 2 (192.168.240.24)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SONY ONE 2 (192.168.240.24)
 http://103.167.167.5:8111/play/a00u/index.m3u8
-#EXTINF:-1,SPOTV
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SPOTV
 http://103.167.167.5:8111/play/a03s/index.m3u8
-#EXTINF:-1,SPOTV 1 (192.168.240.10)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SPOTV 1 (192.168.240.10)
 http://103.167.167.5:8111/play/a020/index.m3u8
-#EXTINF:-1,SPOTV 2 (192.168.240.30)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",SPOTV 2 (192.168.240.30)
 http://103.167.167.5:8111/play/a010/index.m3u8
-#EXTINF:-1,THRILL
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",THRILL
 http://103.167.167.5:8111/play/a03v/index.m3u8
-#EXTINF:-1,THRILL(176.16.201.2)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",THRILL(176.16.201.2)
 http://103.167.167.5:8111/play/a01l/index.m3u8
-#EXTINF:-1,TVRI Kanal 3
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TVRI Kanal 3
 http://103.167.167.5:8111/play/a01w/index.m3u8
-#EXTINF:-1,TVRI Nasional
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TVRI Nasional
 http://103.167.167.5:8111/play/a01v/index.m3u8
-#EXTINF:-1,TVRI Sport
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",TVRI Sport
 http://103.167.167.5:8111/play/a01x/index.m3u8
-#EXTINF:-1,WB (192.168.240.37)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",WB (192.168.240.37)
 http://103.167.167.5:8111/play/a017/index.m3u8
-#EXTINF:-1,WFC
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",WFC
 http://103.167.167.5:8111/play/a03e/index.m3u8
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ZEE BIOSKOP
 http://103.167.167.5:8111/play/a03g/index.m3u8
-#EXTINF:-1,ZEE BIOSKOP (192.168.240.40)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ZEE BIOSKOP (192.168.240.40)
 http://103.167.167.5:8111/play/a01a/index.m3u8
-#EXTINF:-1,ZHEJIANG (176.16.201.4)
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",ZHEJIANG (176.16.201.4)
 http://103.167.167.5:8111/play/a01n/index.m3u8
-#EXTINF:-1,happy kids junior
+#EXTINF:-1 group-title="Combebel TV1" tvg-id="" tvg-logo="",happy kids junior
 http://103.167.167.5:8111/play/a03b/index.m3u8
