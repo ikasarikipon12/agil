@@ -1,54 +1,3 @@
-<!DOCTYPE html><head></head><body><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><script type="text/javascript">
-                                            var cookies = ( "cookie" in document && ( document.cookie.length > 0 || (document.cookie = "test").indexOf.call(document.cookie, "test") > -1) );
-                                            if ( cookies ) {
-                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//enif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//enim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
-                                            } else {
-                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//disif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//disim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
-                                            }
-                                          </script>
-<noscript><iframe src="//nojsif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//nojsim.images.xtstatic.com/tp.gif" alt="" /></iframe></noscript>
-<iframe src="//cif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//cim.images.xtstatic.com/tp.gif" alt="" /></iframe><div class="xt_header" data-xtcontainer="header"><img class="logo" src="https://semprulwae.000webhostapp.com/Logo/Spl.jpg" alt="logo" /></div><a href="">gratis</a><br />
-<div data-xtcontainer="navigation" class="xt_navigation"><span><a href="/"><span>Home</span></a></span><span><a href="/Blog"><span>Blog</span></a></span><span><a href="/Social+feeds"><span>Social feeds</span></a></span><span><a href="/About+me"><span>About me</span></a></span></div><div style="display:none"><script type="text/javascript">
-var _qevents = _qevents || [];
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-_qevents.push({
-qacct:"p-0cfM8Oh7M9bVQ"
-});
-</script>
-<noscript>
-<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
-</noscript></div><div style="display:none"><script type="text/javascript">
-var _qevents = _qevents| [];
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-_qevents.push({
-qacct:"p-0cfM8Oh7M9bVQ"
-});
-</script>
-<noscript>
-<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
-</noscript></div>
-<link type="text/css" rel="stylesheet" href="" />
-<meta http-equiv='refresh' content='0; URL=http://semprulwae.yn.lt/Logo/cuok.gif'>
- <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
-<noscript>
-
-
-
-
 #EXTM3U url-tvg="https://s.id/sdl_epg"
 
 
@@ -316,7 +265,8 @@ https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBang
 
 #EXTINF:-1  tvg-name="INFO" tvg-id="" tvg-logo="http://semprullive.wap.sh/Logo/Sedulur.png" group-title="Lokal 2" :http-referrer="", Silahkan gabung di grub
 https://www.dropbox.com/s/5hd55m3it6y9jur/melukissenja.mp4?dl=1
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANSTV HD" tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal 2",TRANSTV HD
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANSTV HD" tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal 2",TRANSTV HD
+
 https://devds.site/api/v.m3u8?ch=transtv
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV FHD" tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal 2",TRANS TV FHD
 https://devds.site/api/indihoy/hls.m3u8?ch=transtv
@@ -383,9 +333,11 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8|U
 #EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI" tvg-logo="https://i.postimg.cc/Y26CKRx5/tvri2.png" group-title="Lokal 2",TVRI
 https://devds.site/api/v.m3u8?ch=tvri
 #EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU" tvg-logo="https://i.postimg.cc/MZnphJGX/bs22.png" group-title="Lokal 2",BERITA SATU
-https://devds.site/api/indihoy/hls.m3u8?ch=beritasatu
+https://devds.site/api/indihoy/hls.m3u8?ch=beritasatu
+
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="Magna Tv" tvg-logo="https://i.postimg.cc/SNGJk7cv/magna2.png" group-title="Lokal 2",Magna Tv
-https://devds.site/api/indihoy/hls.m3u8?ch=magna
+https://devds.site/api/indihoy/hls.m3u8?ch=magna
+
 
 
 
