@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 1" tvg-logo="http://logo.yurend.net/08.olahraga/sonysports.png" group-title="BRO",SONY SPORTS 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/1
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 2" tvg-logo="http://logo.yurend.net/08.olahraga/sonysports.png" group-title="BRO",SONY SPORTS 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/2
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 5" tvg-logo="http://logo.yurend.net/08.olahraga/sonysports.png" group-title="BRO",SONY SPORTS 5
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/3
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="http://logo.yurend.net/08.olahraga/astroarena.png" group-title="BRO",ASTRO ARENA 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="BRO",ASSP 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/5
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="BRO",ASSP 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/6
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="BRO",ASSP 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/7
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="BRO",ASSP 4
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/8
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="http://logo.yurend.net/12.malaysia/tv3.png" group-title="CORNER",TV 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/31
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="http://logo.yurend.net/12.malaysia/astroceria.png" group-title="CORNER",ASTRO CERIA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/35
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD" tvg-logo="http://logo.yurend.net/12.malaysia/astroaod.png" group-title="CORNER",ASTRO AOD
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AURA" tvg-logo="http://logo.yurend.net/12.malaysia/astroaura.png" group-title="CORNER",ASTRO AURA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/49
+#EXTINF:-1 tvg-id="" tvg-name="USEESPORT 1" tvg-logo="http://logo.yurend.net/08.olahraga/useesport.png" group-title="CORNER",USEESPORT 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/199
+#EXTINF:-1 tvg-id="" tvg-name="USEESPORT 2" tvg-logo="http://logo.yurend.net/08.olahraga/useesport.png" group-title="CORNER",USEESPORT 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/200
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="http://logo.yurend.net/05.film/flik.png" group-title="CORNER",FLIK
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/201
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 ID" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="CORNER",BEINSPORT 1 ID
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/203
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 ID" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="CORNER",BEINSPORT 3 ID
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/204
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA" tvg-logo="http://logo.yurend.net/12.malaysia/astroprima.png" group-title="CORNER",ASTRO PRIMA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://logo.yurend.net/01.nasional/rcti.png" group-title="DIAMETER",RCTI
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/38
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://logo.yurend.net/01.nasional/sctv.png" group-title="DIAMETER",SCTV
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/39
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://logo.yurend.net/01.nasional/indosiar.png" group-title="DIAMETER",INDOSIAR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/40
+#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="http://logo.yurend.net/01.nasional/mojitv.png" group-title="DIAMETER",MOJI TV
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/29
+#EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="http://logo.yurend.net/02.berita/inews.png" group-title="DIAMETER",INEWS
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/208
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="http://logo.yurend.net/08.olahraga/basket.png" group-title="DIAMETER",NBA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/210
+#EXTINF:-1 tvg-id="" tvg-name="YUREND-JFL" tvg-logo="http://logo.yurend.net/00.yurend/yurendjfl.png" group-title="YURENDTV",YUREND-JFL
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/189
+#EXTINF:-1 tvg-id="" tvg-name="YUREND-MUSIK" tvg-logo="http://logo.yurend.net/00.yurend/yurendmusik.png" group-title="YURENDTV",YUREND-MUSIK
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/190
+#EXTINF:-1 tvg-id="" tvg-name="YUREND-FILM" tvg-logo="http://logo.yurend.net/00.yurend/yurendfilm.png" group-title="YURENDTV",YUREND-FILM
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/191
+#EXTINF:-1 tvg-id="" tvg-name="YUREND UPIN" tvg-logo="http://logo.yurend.net/00.yurend/yurendupin.png" group-title="YURENDTV",YUREND UPIN
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/192
+#EXTINF:-1 tvg-id="" tvg-name="YUREND BEAN" tvg-logo="http://logo.yurend.net/00.yurend/yurendbean.png" group-title="YURENDTV",YUREND BEAN
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/193
+#EXTINF:-1 tvg-id="" tvg-name="YUREND TOM & JERRY" tvg-logo="http://logo.yurend.net/00.yurend/yurendtj.png" group-title="YURENDTV",YUREND TOM & JERRY
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/194
+#EXTINF:-1 tvg-id="" tvg-name="YUREND DONALD" tvg-logo="http://logo.yurend.net/00.yurend/yurenddonald.png" group-title="YURENDTV",YUREND DONALD
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/195
+#EXTINF:-1 tvg-id="" tvg-name="YUREND LOONEY TONES" tvg-logo="http://logo.yurend.net/00.yurend/yurendlooney.png" group-title="YURENDTV",YUREND LOONEY TONES
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/196
+#EXTINF:-1 tvg-id="" tvg-name="YUREND LARVA" tvg-logo="http://logo.yurend.net/00.yurend/yurendlarva.png" group-title="YURENDTV",YUREND LARVA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/197
+#EXTINF:-1 tvg-id="" tvg-name="YUREND MASHA&BEAR" tvg-logo="http://logo.yurend.net/00.yurend/yurendmasha.png" group-title="YURENDTV",YUREND MASHA&BEAR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/198
+#EXTINF:-1 tvg-id="" tvg-name="YUREND SHAUN THE SHEEP" tvg-logo="http://logo.yurend.net/00.yurend/yurendsheep.png" group-title="YURENDTV",YUREND SHAUN THE SHEEP
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/205
+#EXTINF:-1 tvg-id="" tvg-name="YUREND Br.BEAN CARTOON" tvg-logo="http://logo.yurend.net/00.yurend/yurendbeancartoon.png" group-title="YURENDTV",YUREND Br.BEAN CARTOON
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/206
+#EXTINF:-1 tvg-id="" tvg-name="YUREND BERNARD" tvg-logo="http://logo.yurend.net/00.yurend/yurendbernard.png" group-title="YURENDTV",YUREND BERNARD
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/207
+#EXTINF:-1 tvg-id="" tvg-name="Ambush (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="FILM",Ambush (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",Sayen (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Hart the Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",Die Hart the Movie (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Weapon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",The Weapon (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Warrant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",Black Warrant (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legion of Super-Heroes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",Legion of Super-Heroes (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",Little Dixie (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condor's Nest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILM",Condor's Nest (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",Plane (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panther SWAT (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",Panther SWAT (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl Who Escaped (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",The Girl Who Escaped (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Emanuelle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",Amor Emanuelle (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Reading (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",The Reading (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Call Me Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",Call Me Chihiro (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Strays (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",The Strays (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="FILM",Knock at the Cabin (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq8x5F17q95T1j0up5rpzXFAylN.jpg" group-title="FILM",Sharper (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All the Places (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq8x5F17q95T1j0up5rpzXFAylN.jpg" group-title="FILM",All the Places (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alcarràs (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFxuSReUph5Eea71QxCeAbl8ON2.jpg" group-title="FILM",Alcarràs (2022)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Locksmith (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFxuSReUph5Eea71QxCeAbl8ON2.jpg" group-title="FILM",The Locksmith (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battlebox (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDeqyKwEtms2IFtT8SDvURZWqAF.jpg" group-title="FILM",Battlebox (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Outwaters (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDeqyKwEtms2IFtT8SDvURZWqAF.jpg" group-title="FILM",The Outwaters (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unwelcome (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Unwelcome (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood Harvest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Blood Harvest (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Infinity Pool (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devil Beneath (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Devil Beneath (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="House Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",House Party (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love at First Kiss (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Love at First Kiss (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Have a Ghost (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",We Have a Ghost (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Squared Love All Over Again (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Squared Love All Over Again (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="You People (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",You People (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man & the Wasp: Quantumania (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Ant-Man & the Wasp: Quantumania (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Spirit (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",True Spirit (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sacred Riana 2: Bloody Mary (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",The Sacred Riana 2: Bloody Mary (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berbalas Kejam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Berbalas Kejam (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cherish & Ruelle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Cherish & Ruelle (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dear David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Dear David (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scandal Makers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Scandal Makers (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster of the deep (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Monster of the deep (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost City ： The Deadly Affair (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Lost City ： The Deadly Affair (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Sword - Ancient Battlefield (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",Dragon Sword - Ancient Battlefield (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Thousand Faces of Dunshu 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",The Thousand Faces of Dunshu 2 (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The mob (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="FILM",The mob (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="天龍八部之喬峰傳 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vksLBSmHahKD9F30vIrm0S7JsSO.jpg" group-title="FILM",天龍八部之喬峰傳 (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend of Herring (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vksLBSmHahKD9F30vIrm0S7JsSO.jpg" group-title="FILM",The Legend of Herring (2022)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Point Men (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vksLBSmHahKD9F30vIrm0S7JsSO.jpg" group-title="FILM",The Point Men (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unlocked (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg" group-title="FILM",Unlocked (2017)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg" group-title="FILM",Jung_E (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Devil Conspiracy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AWcMtUZjpkq4h52yDnNIp9FwEO.jpg" group-title="FILM",The Devil Conspiracy (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgZuXiDAkXdARlsDzQwmrCpkqpL.jpg" group-title="FILM",Missing (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sniper (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfzZY6sDBNGme77JVcFClUwrtwW.jpg" group-title="FILM",The Sniper (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pursuit (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfzZY6sDBNGme77JVcFClUwrtwW.jpg" group-title="FILM",Pursuit (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hunting Soul Suppressing Coffin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfzZY6sDBNGme77JVcFClUwrtwW.jpg" group-title="FILM",Dragon Hunting Soul Suppressing Coffin (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Integrity of Joseph Chambers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqEz4g6mPgm93NICaSSSGHHbjn.jpg" group-title="FILM",The Integrity of Joseph Chambers (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Days of a Good Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqEz4g6mPgm93NICaSSSGHHbjn.jpg" group-title="FILM",10 Days of a Good Man (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faraway (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqEz4g6mPgm93NICaSSSGHHbjn.jpg" group-title="FILM",Faraway (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th6vfqUtkGx69NI9TGa9gpOl7xg.jpg" group-title="FILM",Marlowe (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th6vfqUtkGx69NI9TGa9gpOl7xg.jpg" group-title="FILM",Operation Fortune: Ruse de Guerre (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chang Can Dunk (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohaIkrTd47z43IuLlwwNg7bi96c.jpg" group-title="FILM",Chang Can Dunk (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Get in the Dark (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohaIkrTd47z43IuLlwwNg7bi96c.jpg" group-title="FILM",Get in the Dark (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCCtPOoJH1VktSJCHetuzEWkDj6.jpg" group-title="FILM",Luther: The Fallen Sun (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zodiac: Apa Bintangmu? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OC3EwJlZLRpBAjG7a2oawP7uyo.jpg" group-title="FILM",Zodiac: Apa Bintangmu? (2023)
+http://tv1.yurend.net:25461/movie/yurendtv/yurendtv@@/345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORTS PREMIER" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORTS PREMIER
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/268
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORTS F1" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORTS F1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/270
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORT MAIN EVENT" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORT MAIN EVENT
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/271
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORT CRICKET" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORT CRICKET
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/272
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORT NFL" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORT NFL
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/273
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORT ARENA" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORT ARENA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/274
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORT GOLF" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORT GOLF
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/275
+#EXTINF:-1 tvg-id="" tvg-name="SKYSPORT MIX" tvg-logo="http://logo.yurend.net/08.olahraga/skysports.png" group-title="CRICFREE",SKYSPORT MIX
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/276
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PREMIER" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT PREMIER
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/277
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT LALIGA" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT LALIGA
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/278
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT FOOTBALL" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT FOOTBALL
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/279
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT TENNIS" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT TENNIS
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/280
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT ACTION" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT ACTION
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/281
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT RUGBY" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT RUGBY
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/282
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT MAXIMO" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT MAXIMO
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/283
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT CRICKET" tvg-logo="http://logo.yurend.net/08.olahraga/supersport.png" group-title="CRICFREE",SUPERSPORT CRICKET
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/284
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="http://logo.yurend.net/08.olahraga/btsport.png" group-title="CRICFREE",BT SPORT 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/285
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2" tvg-logo="http://logo.yurend.net/08.olahraga/btsport.png" group-title="CRICFREE",BT SPORT 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/286
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 3" tvg-logo="http://logo.yurend.net/08.olahraga/btsport.png" group-title="CRICFREE",BT SPORT 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/287
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 4" tvg-logo="http://logo.yurend.net/08.olahraga/btsport.png" group-title="CRICFREE",BT SPORT 4
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/288
+#EXTINF:-1 tvg-id="" tvg-name="FOXSPORT US 1" tvg-logo="http://logo.yurend.net/08.olahraga/foxsport.png" group-title="CRICFREE",FOXSPORT US 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/289
+#EXTINF:-1 tvg-id="" tvg-name="FOXSPORT US 2" tvg-logo="http://logo.yurend.net/08.olahraga/foxsport.png" group-title="CRICFREE",FOXSPORT US 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/290
+#EXTINF:-1 tvg-id="" tvg-name="ESPN US 1" tvg-logo="http://logo.yurend.net/08.olahraga/espn.png" group-title="CRICFREE",ESPN US 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/297
+#EXTINF:-1 tvg-id="" tvg-name="ESPN US 2" tvg-logo="http://logo.yurend.net/08.olahraga/espn.png" group-title="CRICFREE",ESPN US 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/298
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV" tvg-logo="http://logo.yurend.net/08.olahraga/laligatv.png" group-title="CRICFREE",LALIGATV
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/299
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT UK 1" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT UK 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/316
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT UK 2" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT UK 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/317
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT UK 3" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT UK 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/318
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT FR 1" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT FR 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/319
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT FR 2" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT FR 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/320
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT FR 3" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT FR 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/321
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT TUR 1" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT TUR 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/322
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT TUR 2" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT TUR 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/323
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT TUR 3" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT TUR 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/324
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT TUR 4" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT TUR 4
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/325
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT AU 1" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT AU 1
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/326
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT AU 2" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT AU 2
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/327
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT AU 3" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT AU 3
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/328
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT PREMIUM 1  AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT PREMIUM 1  AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/329
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT PREMIUM 2  AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT PREMIUM 2  AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/330
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT PREMIUM 3  AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT PREMIUM 3  AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/331
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 1 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/332
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 2 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/333
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 3 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/334
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 4 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 4 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/335
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 5 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 5 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/336
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 6 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 6 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/337
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 7 AR" tvg-logo="http://logo.yurend.net/09.beinsport/beinsport.png" group-title="BEINSPORT",BEINSPORT 7 AR
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/338
